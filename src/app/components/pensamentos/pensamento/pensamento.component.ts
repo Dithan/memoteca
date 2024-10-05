@@ -8,16 +8,16 @@ import { Pensamento } from '../pensamento';
 })
 export class PensamentoComponent {
   @Input() pensamento: Pensamento = {
-    id: 0,
+    id: '',
     conteudo: '',
     autoria: '',
     modelo: '',
   };
 
   larguraPensamento(): String {
-    if(this.pensamento.conteudo.length >= 256){
-      return 'pensamento-g'
+    if (this.pensamento.conteudo.length >= 256) {
+      return 'pensamento-g';
     }
-    return 'pensamento-p'
+    return 'pensamento-p';
   }
 }
