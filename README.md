@@ -20,32 +20,32 @@ Durante o desenvolvimento deste projeto, aprendi e apliquei várias hard skills 
 Para rodar a aplicação Memoteca em sua máquina local, siga as instruções abaixo:
 
 1. **Clone o repositório**:
-No terminal:
+  No terminal:
 
-git clone https://github.com/Dithan/memoteca.git
+  git clone https://github.com/Dithan/memoteca.git
 
-cd memoteca
+  cd memoteca
 
 2. **Instale as dependências:**:
-npm install
+  npm install
 
 3. **Inicie o servidor Angular:**:
-ng serve
+  ng serve
 
-A aplicação estará disponível em http://localhost:4200.
+  A aplicação estará disponível em http://localhost:4200.
 
 4. **Inicie o servidor Angular:**:
-Inicie o JSON Server: Navegue até a pasta backend: 
+  Inicie o JSON Server: Navegue até a pasta backend: 
 
-No terminal:
+  No terminal:
 
-cd backend
+  cd backend
 
-Em seguida, inicie o JSON Server:
+  Em seguida, inicie o JSON Server:
 
-npm start
+  npm start
 
-O JSON Server estará disponível em http://localhost:3000.
+  O JSON Server estará disponível em http://localhost:3000.
 
 ## Contribuições
 
