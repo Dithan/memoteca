@@ -21,7 +21,8 @@ Durante o desenvolvimento deste projeto, aprendi e apliquei várias hard skills 
 Para rodar a aplicação Memoteca em sua máquina local, siga as instruções abaixo:
 
 1. **Clone o repositório**
-   No terminal
+
+No terminal
 
 git clone https://github.com/Dithan/memoteca.git
 
