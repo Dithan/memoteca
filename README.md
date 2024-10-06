@@ -38,11 +38,7 @@ ng serve
 
 A aplicação estará disponível em http://localhost:4200.
 
-**4 - Inicie o servidor Angular**
-
-Inicie o JSON Server
-
-Navegue até a pasta backend
+**4 - Inicie o JSON Server Navegue até a pasta backend**
 
 No terminal
 
