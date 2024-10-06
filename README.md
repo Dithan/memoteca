@@ -17,37 +17,37 @@ Durante o desenvolvimento deste projeto, aprendi e apliquei várias hard skills 
 - **Requisições HTTP**: Realização de requisições HTTP utilizando a classe HttpClient e desenvolvimento de um CRUD.
 
 ## Acesso ao Projeto - Como Rodar a Aplicação Localmente
+
 Para rodar a aplicação Memoteca em sua máquina local, siga as instruções abaixo:
 
-1. **Clone o repositório**:
-  No terminal:
+1. **Clone o repositório**
+   No terminal
 
-  git clone https://github.com/Dithan/memoteca.git
+git clone https://github.com/Dithan/memoteca.git
 
-  cd memoteca
+cd memoteca
 
-2. **Instale as dependências:**:
-  npm install
+2. **Instale as dependências:**
+   npm install
 
-3. **Inicie o servidor Angular:**:
-  ng serve
+3. **Inicie o servidor Angular:**
+   ng serve
 
-  A aplicação estará disponível em http://localhost:4200.
+A aplicação estará disponível em http://localhost:4200.
 
-4. **Inicie o servidor Angular:**:
-  Inicie o JSON Server: Navegue até a pasta backend: 
+4. **Inicie o servidor Angular:**
+   Inicie o JSON Server: Navegue até a pasta backend:
 
-  No terminal:
+No terminal
 
-  cd backend
+cd backend
 
-  Em seguida, inicie o JSON Server:
+Em seguida, inicie o JSON Server
 
-  npm start
+npm start
 
-  O JSON Server estará disponível em http://localhost:3000.
+O JSON Server estará disponível em http://localhost:3000.
 
 ## Contribuições
 
 Direitos autoráis: Alura
-
