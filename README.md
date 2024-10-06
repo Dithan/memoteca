@@ -28,16 +28,20 @@ git clone https://github.com/Dithan/memoteca.git
 
 cd memoteca
 
-2. **Instale as dependências:**
-   npm install
+2. **Instale as dependências**
 
-3. **Inicie o servidor Angular:**
-   ng serve
+npm install
+
+3. **Inicie o servidor Angular**
+ng serve
 
 A aplicação estará disponível em http://localhost:4200.
 
-4. **Inicie o servidor Angular:**
-   Inicie o JSON Server: Navegue até a pasta backend:
+4. **Inicie o servidor Angular**
+
+Inicie o JSON Server
+
+Navegue até a pasta backend
 
 No terminal
 
